@@ -31,7 +31,7 @@ Welcome to **MultiFiley**, your go-to solution for transferring multiple files e
    - Open the app on both devices and follow the pairing instructions.  
 
 4. **Select and Transfer**  
-   - Choose the files you want to send and hit transfer. That’s it! 🎉  
+   - Choose the files you want to send and hit transfer. That’s it! Yeahhhhhh 🎉  
 
 ---
 

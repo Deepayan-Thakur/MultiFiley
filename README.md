@@ -37,7 +37,7 @@ Welcome to **MultiFiley**, your go-to solution for transferring multiple files e
 
 ## 🛠 **Technical Requirements**
 - **Computer**: Windows 7 or later, macOS 10.13 or later, or Linux-based systems.  
-- **Mobile Device**: iOS 12 or later, Android 8.0 or later.  
+- **Mobile Device**: Android 8.0 or later.  
 - **Network**: Both devices must be connected to the same local Wi-Fi network.  
 
 ---

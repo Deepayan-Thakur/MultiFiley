@@ -9,9 +9,6 @@ Welcome to **MultiFiley**, your go-to solution for transferring multiple files e
 - 🚀 **Fast and Reliable Transfers**  
   Enjoy blazing-fast file transfers without relying on USB cables or external apps.  
 
-- 🔗 **Cross-Platform Compatibility**  
-  Works with Windows, macOS, and Linux for computers, and iOS/Android for mobile devices.  
-
 - 🔒 **Secure**  
   Transfer files safely with end-to-end encryption, keeping your data private.  
 

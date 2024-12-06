@@ -24,10 +24,7 @@ Welcome to **MultiFiley**, your go-to solution for transferring multiple files e
 2. **Connect Devices**  
    - Ensure both devices are on the same Wi-Fi network.  
 
-3. **Launch and Pair**  
-   - Open the app on both devices and follow the pairing instructions.  
-
-4. **Select and Transfer**  
+3. **Select and Transfer**  
    - Choose the files you want to send and hit transfer. That’s it! Yeahhhhhh 🎉  
 
 ---
